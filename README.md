@@ -3,6 +3,7 @@
 
 Features :-
 
+
 1- Fire Detection & Extinguishing: Detects fire using flame sensors and activates a firefighting mechanism (can be controlled manually by the mobile application or extinguishes fire automatically at autonomous mode ).
 2- Line Following Mode: Follows a predefined path using a 5-channel IR sensor.
 
@@ -14,6 +15,7 @@ Features :-
  
 
 Components Used :-
+
 
 1- Microcontroller: Arduino Uno R3.
 
@@ -31,6 +33,7 @@ Components Used :-
 
 
 Mobile Application :-
+
 
 The mobile app is developed using MIT App Inventor and provides the following functionalities:
 
