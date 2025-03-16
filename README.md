@@ -14,6 +14,7 @@ Features :-
 5- Bluetooth Communication: Wireless control using a Bluetooth module (HC-05).  
  
 
+
 Components Used :-
 
 
@@ -30,6 +31,7 @@ Components Used :-
 6- Extinguishing Mechanism: Water pump (3V - 6V).
 
 7- Display: LCD 2*16 with I2C module (displays the current mode and fire location at autonomous fire fighting mode), Battery level indicator (to display the battery level).
+
 
 
 Mobile Application :-
